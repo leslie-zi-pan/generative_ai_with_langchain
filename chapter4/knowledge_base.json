@@ -38,5 +38,21 @@
       "page": 73,
       "topic": "vector_databases"
     }
+  },
+  {
+    "content": "Prompt engineering involves designing and refining prompts to elicit desired responses from language models. Effective prompts can significantly improve the quality of generated text. Techniques include zero-shot prompting, few-shot prompting, and chain-of-thought prompting, where the model is guided through a series of reasoning steps.",
+    "metadata": {
+      "source": "Prompt_Engineering_Guide.pdf",
+      "page": 58,
+      "topic": "prompt_engineering"
+    }
+  },
+  {
+    "content": "Eating plant based alternatives have shown to reduce carbon footprint by 70% compared to eating beef.",
+    "metadata": {
+      "source": "Eating_Green.pdf",
+      "page": 102,
+      "topic": "fine_tuning"
+    }
   }
 ]
